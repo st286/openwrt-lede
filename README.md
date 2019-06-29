@@ -1,5 +1,5 @@
 # openwrt-lede
-嵌入式设备的Linux操作系统
+嵌入式设备的Linux操作系统，如软路由器
 
 ---
 
