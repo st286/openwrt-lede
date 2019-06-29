@@ -20,11 +20,14 @@ OpenWrt 18.06 的目标是使系统更为现代化，为符合条件的目标向
 
 [ledesoft_full](https://github.com/tomtiantw/ledesoft_full)
 
-**some soft:
+**some soft:**
 
 1.koolss      for shadowsock
-2.v2ray       for VMESS(v2ray)  
+
+2.v2ray       for VMESS(v2ray)
+
 3.brook       for Brook
+
 4.wireguard   for Wireguard
 
 **软路由之用**
